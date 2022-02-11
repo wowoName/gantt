@@ -1,0 +1,15 @@
+{
+  "name": "lgjs-gantt",
+  "version": "1.0.0",
+  "description": "1069722589@qq.com 甘特图组件",
+  "main": "lgj-gantt.umd.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "甘特图",
+    "gantt"
+  ],
+  "author": "1069722589@qq.com",
+  "license": "MIT"
+}
