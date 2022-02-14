@@ -121,7 +121,7 @@ Default: `month`
 ## 联系方式
 
 ```
-1069722589@qq.com
+QQ：1069722589
 ```
 
 ## License
