@@ -1,6 +1,6 @@
 <h1 align="center">lgjs-gantt</h1>
 # LgjGantt
-
+<p align="center"><img src="https://github.com/wowoName/gantt/blob/main/demo.jpg" alt="logo"></p>
 ## 安装
 
 ```bash
